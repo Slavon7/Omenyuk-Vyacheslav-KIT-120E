@@ -1,0 +1,37 @@
+\hypertarget{task1_8c}{}\doxysection{Файл src/task1.c}
+\label{task1_8c}\index{src/task1.c@{src/task1.c}}
+{\ttfamily \#include $<$stdio.\+h$>$}\newline
+Діаграма включених заголовочних файлів для task1.\+c\+:
+% FIG 0
+\doxysubsection*{Функції}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{task1_8c_a9fcff6797d2079752539a51a00450d6c}{func\+\_\+lab5}} (int b)
+\item 
+int \mbox{\hyperlink{task1_8c_abe8bf9f1b47ee492051f066d4f6aeeda}{func\+\_\+lab6}} (int bb)
+\item 
+int \mbox{\hyperlink{task1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}{main}} ()
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Опис функцій}
+\mbox{\Hypertarget{task1_8c_a9fcff6797d2079752539a51a00450d6c}\label{task1_8c_a9fcff6797d2079752539a51a00450d6c}} 
+\index{task1.c@{task1.c}!func\_lab5@{func\_lab5}}
+\index{func\_lab5@{func\_lab5}!task1.c@{task1.c}}
+\doxysubsubsection{\texorpdfstring{func\_lab5()}{func\_lab5()}}
+{\footnotesize\ttfamily int func\+\_\+lab5 (\begin{DoxyParamCaption}\item[{int}]{b }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{task1_8c_abe8bf9f1b47ee492051f066d4f6aeeda}\label{task1_8c_abe8bf9f1b47ee492051f066d4f6aeeda}} 
+\index{task1.c@{task1.c}!func\_lab6@{func\_lab6}}
+\index{func\_lab6@{func\_lab6}!task1.c@{task1.c}}
+\doxysubsubsection{\texorpdfstring{func\_lab6()}{func\_lab6()}}
+{\footnotesize\ttfamily int func\+\_\+lab6 (\begin{DoxyParamCaption}\item[{int}]{bb }\end{DoxyParamCaption})}
+
+\mbox{\Hypertarget{task1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}\label{task1_8c_ae66f6b31b5ad750f1fe042a706a4e3d4}} 
+\index{task1.c@{task1.c}!main@{main}}
+\index{main@{main}!task1.c@{task1.c}}
+\doxysubsubsection{\texorpdfstring{main()}{main()}}
+{\footnotesize\ttfamily int main (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+Граф всіх викликів цієї функції\+:
+% FIG 1
